@@ -1,0 +1,10 @@
+C:\Users\Машина\Desktop\PtintBook\PtintBook\bin\Debug\PtintBook.exe.config
+C:\Users\Машина\Desktop\PtintBook\PtintBook\bin\Debug\PtintBook.exe
+C:\Users\Машина\Desktop\PtintBook\PtintBook\bin\Debug\PtintBook.pdb
+C:\Users\Машина\Desktop\PtintBook\PtintBook\obj\Debug\PtintBook.csproj.AssemblyReference.cache
+C:\Users\Машина\Desktop\PtintBook\PtintBook\obj\Debug\PtintBook.Form1.resources
+C:\Users\Машина\Desktop\PtintBook\PtintBook\obj\Debug\PtintBook.Properties.Resources.resources
+C:\Users\Машина\Desktop\PtintBook\PtintBook\obj\Debug\PtintBook.csproj.GenerateResource.cache
+C:\Users\Машина\Desktop\PtintBook\PtintBook\obj\Debug\PtintBook.csproj.CoreCompileInputs.cache
+C:\Users\Машина\Desktop\PtintBook\PtintBook\obj\Debug\PtintBook.exe
+C:\Users\Машина\Desktop\PtintBook\PtintBook\obj\Debug\PtintBook.pdb
