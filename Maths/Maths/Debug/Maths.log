@@ -1,0 +1,6 @@
+﻿  Maths.cpp
+E:\3 год\Maths\Maths\Maths.cpp(11,18): warning C4305: инициализация: усечение из "double" в "float"
+E:\3 год\Maths\Maths\Maths.cpp(11,27): warning C4305: инициализация: усечение из "double" в "float"
+E:\3 год\Maths\Maths\Maths.cpp(11,37): warning C4305: инициализация: усечение из "double" в "float"
+E:\3 год\Maths\Maths\Maths.cpp(56,18): warning C4101: x: неиспользованная локальная переменная
+  Maths.vcxproj -> E:\3 год\Maths\Debug\Maths.exe
