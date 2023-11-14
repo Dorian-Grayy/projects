@@ -1,0 +1,10 @@
+C:\Users\d.kubareva.11isip20\Desktop\Game\Game\bin\Debug\Game.exe.config
+C:\Users\d.kubareva.11isip20\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\d.kubareva.11isip20\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\d.kubareva.11isip20\Desktop\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\d.kubareva.11isip20\Desktop\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\d.kubareva.11isip20\Desktop\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\d.kubareva.11isip20\Desktop\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\d.kubareva.11isip20\Desktop\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\d.kubareva.11isip20\Desktop\Game\Game\obj\Debug\Game.exe
+C:\Users\d.kubareva.11isip20\Desktop\Game\Game\obj\Debug\Game.pdb

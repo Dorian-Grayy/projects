@@ -1,0 +1,41 @@
+C:\Users\d.kubareva.11isip20\Desktop\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.exe.config
+C:\Users\d.kubareva.11isip20\Desktop\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.exe
+C:\Users\d.kubareva.11isip20\Desktop\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.pdb
+C:\Users\d.kubareva.11isip20\Desktop\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csprojAssemblyReference.cache
+C:\Users\d.kubareva.11isip20\Desktop\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.Form1.resources
+C:\Users\d.kubareva.11isip20\Desktop\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.Properties.Resources.resources
+C:\Users\d.kubareva.11isip20\Desktop\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.GenerateResource.cache
+C:\Users\d.kubareva.11isip20\Desktop\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.CoreCompileInputs.cache
+C:\Users\d.kubareva.11isip20\Desktop\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.exe
+C:\Users\d.kubareva.11isip20\Desktop\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.pdb
+I:\УП Чирская\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.exe.config
+I:\УП Чирская\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.exe
+I:\УП Чирская\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.pdb
+I:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csprojAssemblyReference.cache
+I:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.Form1.resources
+I:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.Properties.Resources.resources
+I:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.GenerateResource.cache
+I:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.CoreCompileInputs.cache
+I:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.exe
+I:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.pdb
+E:\УП Чирская\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.exe.config
+E:\УП Чирская\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.exe
+E:\УП Чирская\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.pdb
+E:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.AssemblyReference.cache
+E:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.SuggestedBindingRedirects.cache
+E:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.Form1.resources
+E:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.Properties.Resources.resources
+E:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.GenerateResource.cache
+E:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.CoreCompileInputs.cache
+E:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.exe
+E:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.pdb
+F:\УП Чирская\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.exe.config
+F:\УП Чирская\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.exe
+F:\УП Чирская\Simplex_Method\Simplex_Method\bin\Debug\Simplex_Method.pdb
+F:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csprojAssemblyReference.cache
+F:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.Form1.resources
+F:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.Properties.Resources.resources
+F:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.GenerateResource.cache
+F:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.csproj.CoreCompileInputs.cache
+F:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.exe
+F:\УП Чирская\Simplex_Method\Simplex_Method\obj\Debug\Simplex_Method.pdb
